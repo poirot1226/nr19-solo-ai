@@ -129,6 +129,8 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
 - [Clerk](https://clerk.com): drop-in auth. API.
 - [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
+- [NextReset](https://nextreset.ai/) — independent Codex reset-history and official-incident resource with a browser-local personal timer; useful for planning solo coding sessions, but it does not guarantee future reset timing. 🆓
+
 
 ## Claude Skills & Plugins
 - [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
