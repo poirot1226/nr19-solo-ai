@@ -266,7 +266,6 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 - [Clerk](https://clerk.com) — drop-in auth so you skip building login. 🔌
 - [tgx](https://github.com/yerdaulet-damir/tgx) — TypeScript framework for building Telegram bots fast on grammY; state, Stars payments and menus built in, and designed to be built by AI agents (ships an MCP server). 🔓
 
-
 ## Distribution & Marketing
 
 Building is half the job — this is how a solo builder gets users. **Where to launch, how to grow, and the tactics that work** — see the [launch playbook](playbooks/launch-and-get-first-users.md).
