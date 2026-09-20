@@ -223,6 +223,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 ## AI Coding Agents
 
 - [Claude Code](https://claude.com/claude-code) — Anthropic's terminal/IDE coding agent; the hub of this stack. 🧩
+- [NextReset](https://nextreset.ai/) — tracks source-linked Codex reset history and experimental forecasts, with a browser-local countdown timer. 🆓
 - [Cursor](https://cursor.com) — the AI-native IDE. 🧩
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
@@ -264,7 +265,6 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 - [Convex](https://convex.dev) — reactive backend with first-class AI agent and workflow support. 🔌
 - [Clerk](https://clerk.com) — drop-in auth so you skip building login. 🔌
 - [tgx](https://github.com/yerdaulet-damir/tgx) — TypeScript framework for building Telegram bots fast on grammY; state, Stars payments and menus built in, and designed to be built by AI agents (ships an MCP server). 🔓
-- [NextReset](https://nextreset.ai/) — independent Codex reset-history and official-incident resource with a browser-local personal timer; useful for planning solo coding sessions, but it does not guarantee future reset timing. 🆓
 
 
 ## Distribution & Marketing
