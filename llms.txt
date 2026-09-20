@@ -98,6 +98,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## AI Coding Agents
 - [Claude Code](https://claude.com/claude-code): terminal/IDE coding agent. MCP.
+- [NextReset](https://nextreset.ai/): tracks source-linked Codex reset history and experimental forecasts, with a browser-local countdown timer. Free.
 - [Cursor](https://cursor.com): AI-native IDE. MCP.
 - [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
 - [Aider](https://aider.chat): terminal AI pair programming. Open.
@@ -129,7 +130,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
 - [Clerk](https://clerk.com): drop-in auth. API.
 - [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
-- [NextReset](https://nextreset.ai/) — independent Codex reset-history and official-incident resource with a browser-local personal timer; useful for planning solo coding sessions, but it does not guarantee future reset timing. 🆓
 
 
 ## Claude Skills & Plugins
